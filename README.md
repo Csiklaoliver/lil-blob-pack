@@ -78,7 +78,7 @@ I pick the most requested ones for the next drop.
 The website powering this pack is open source.
 Built with **Next.js 16**, **TypeScript**, **Tailwind CSS**, and hosted on a VPS.
 
-**[→ View the source code](https://github.com/Csiklaoliver/lilblobpack)**
+**[→ View the source code](https://github.com/Csiklaoliver/lilblobpack-source)**
 
 ---
 
