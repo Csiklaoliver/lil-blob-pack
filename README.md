@@ -28,7 +28,7 @@ Cute, chubby, and ready to drop into your project.
 A growing collection of free, high-quality 3D mascots — one for each app you use every day.
 Every blob ships as **FBX + GLB**, ready for Blender, Unity, Unreal, or your README.
 
-No attribution required. No paywalls. Just download and use.
+No credit card required. I made it easy and open-soruce for everyone to use. 
 
 ---
 
@@ -89,5 +89,5 @@ Built with **Next.js 16**, **TypeScript**, **Tailwind CSS**, and hosted on a VPS
 <br/>
 
 <div align="center">
-  <sub>Free forever · No credit required but appreciated</sub>
+  <sub>free forever. as always.</sub>
 </div>
